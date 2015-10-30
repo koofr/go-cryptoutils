@@ -3,11 +3,11 @@ go-cryptoutils
 
 Go crypto utils.
 
-[![GoDoc](https://godoc.org/github.com/koofr/go-crypto?status.png)](https://godoc.org/github.com/koofr/go-crypto)
+[![GoDoc](https://godoc.org/github.com/koofr/go-cryptoutils?status.png)](https://godoc.org/github.com/koofr/go-cryptoutils)
 
 ## Install
 
-    go get github.com/koofr/go-crypto
+    go get github.com/koofr/go-cryptoutils
 
 ## Testing
 
